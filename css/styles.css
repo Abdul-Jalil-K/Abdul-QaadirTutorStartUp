@@ -1,0 +1,47 @@
+body {
+  background-color: bisque;
+}
+
+a {
+    text-decoration: none;
+    color: rosybrown;
+}
+
+li {
+    list-style-type: none;
+    padding: 0.25rem;
+}
+
+hr {
+  border: 7px dotted dodgerblue;
+  border-top: none;
+  width: 50px;
+  margin: 4% auto;
+  
+}
+
+h2 {
+  margin: 2rem;
+}
+
+ul {
+  margin: 2.5rem;
+}
+
+#call-to-contact {
+  margin: 0 3rem;
+}
+
+.container {
+  margin: 0;
+}
+
+.contact-emoji {
+  font-size: 2rem;
+}
+
+
+
+.emoji {
+  font-size: 7rem;
+}
